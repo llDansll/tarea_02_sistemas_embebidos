@@ -3,6 +3,8 @@
 #Realiza la multiplicación de 2 parámetros introducidos
 #tendrá que poder multiplicar números decimales, como 2.2 * 3)
 
+#Autor: Daniel M. Barrera Leguizamón
+
 echo Los números ingresados son
 echo $1 y $2
 

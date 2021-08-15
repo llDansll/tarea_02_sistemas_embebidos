@@ -3,6 +3,8 @@
 #Realizar un script que muestre cuantos puertos seriales "/dev/ttyS#"
 #hay en el sistema
 
+#Autor: Daniel M. Barrera Leguizamón
+
 #Se usa el comando cat para verificar la presencia de puertos seriales configurados
 sudo cat /proc/tty/driver/serial
 echo

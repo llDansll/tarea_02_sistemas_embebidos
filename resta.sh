@@ -3,6 +3,8 @@
 #Realiza la resta de 2 parámetros introducidos (tendrá que poder sumar números decimales, como 2.2 – 3) 
 #puede usar el script anterior para depurar las entradas.
 
+#Autor: Daniel M. Barrera Leguizamón
+
 echo Los números ingresados son
 echo $1 y $2
 
