@@ -1,0 +1,5 @@
+
+#!/bin/bash
+
+#Imprime los argumentos de entrada separados por coma,
+#sin importar cuántos sean, si no entran argumentos no se imprime nada. 
